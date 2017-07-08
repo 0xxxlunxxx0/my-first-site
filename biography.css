@@ -1,0 +1,46 @@
+.profile-image{
+    background-image: url("img/biography/profile.JPG");
+    background-position-y: bottom;
+
+}
+
+.profile-box{
+  color: white;
+  text-align: center;
+  width: 46%;
+}
+
+.profile-box h2{
+  padding-top: 88px;
+}
+
+.profile-box table{
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+.profile-box table tr{
+  height: 30px;
+}
+
+.home-image{
+  background-image: url("img/biography/home.JPG");
+}
+
+.home-box{
+  width: 30%;
+  color: white;
+  position: absolute;
+  right: 0px;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.6);
+  height: 100%;
+}
+
+.home-box h3{
+  padding-top: 100px;
+}
+
+.home-box h4{
+  padding-top: 55px;
+}
